@@ -1,0 +1,6 @@
+node_modules/
+assets/*
+!assets/.gitkeep
+diagnostics/
+*.lnk
+*.zip
